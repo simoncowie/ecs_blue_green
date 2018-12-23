@@ -1,0 +1,1 @@
+exec dotnet /app/EcsDeploys.dll
